@@ -142,10 +142,4 @@ The confusion matrix and other plots are saved in the `results/` folder after ru
 - matplotlib & seaborn (for plots)
 - Jupyter Notebook
 
-## License
 
-MIT License — see [LICENSE](LICENSE)
-
-## Author
-
-Jayanth — Final year project, 2025
